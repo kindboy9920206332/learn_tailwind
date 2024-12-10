@@ -9,7 +9,7 @@ export default function Footer_components() {
         <button className="ring-blue-500 ring-4 rounded-[5px] ">
           click me!
         </button>
-        
+        <h1>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</h1>
         <button>login</button>
       </div>
     </>
